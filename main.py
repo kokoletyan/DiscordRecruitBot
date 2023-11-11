@@ -131,6 +131,6 @@ async def boshuhelp(ctxh):
 keep_alive()
 #TOKEN = os.environ['RECRUIT_TOKEN']
 try:
-  client.run("MTEyODIxNTQ5NjE4MTk0ODQ0Ng.G5FQn6.uGZAuKMkX859k97aR42Mxdo0YfIAU4yBRP02c0")
+  client.run()
 except:
   os.system("kill 1")
